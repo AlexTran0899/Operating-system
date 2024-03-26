@@ -1,0 +1,82 @@
+There are 2 version of this application, the default one does not follow the rubric but aim to demonstrate how the program would handle edge cases
+The second one attempt to follow the rubric and can be set by swapping line 21 for 22 in 'BarberShop' file and swapping out line 51 for 52 in 'Customer' file 
+Customer: 24 enter the shop.
+customer 24 went directly to the barbar chair, we have 1 performing haircut
+Customer: 23 enter the shop.
+customer 23 went directly to the barbar chair, we have 2 performing haircut
+Customer: 22 enter the shop.
+customer 22 went directly to the barbar chair, we have 3 performing haircut
+Customer: 21 enter the shop.
+customer 21 went directly to the barbar chair, we have 4 performing haircut
+Customer: 20 enter the shop.
+customer 20 went directly to the barbar chair, we have 5 performing haircut
+Customer: 19 enter the shop.
+customer 19 enters the waiting room, we have 1 in the waiting area.
+Customer: 18 enter the shop.
+customer 18 enters the waiting room, we have 2 in the waiting area.
+Customer: 17 enter the shop.
+customer 17 enters the waiting room, we have 3 in the waiting area.
+Customer: 16 enter the shop.
+customer 16 enters the waiting room, we have 4 in the waiting area.
+Customer: 15 enter the shop.
+customer 15 enters the waiting room, we have 5 in the waiting area.
+Customer: 14 enter the shop.
+customer 14 enters the waiting room, we have 6 in the waiting area.
+Customer: 13 enter the shop.
+customer 13 enters the waiting room, we have 7 in the waiting area.
+Customer: 12 enter the shop.
+customer 12 enters the waiting room, we have 8 in the waiting area.
+Customer: 11 enter the shop.
+customer 11 enters the waiting room, we have 9 in the waiting area.
+Customer: 10 enter the shop.
+customer 10 enters the waiting room, we have 10 in the waiting area.
+Customer: 9 enter the shop.
+Customer 9 left in frustration, we have 0 barber(s) available and 0 waiting seat available.
+Customer: 8 enter the shop.
+Customer 8 left in frustration, we have 0 barber(s) available and 0 waiting seat available.
+Customer: 7 enter the shop.
+Customer 7 left in frustration, we have 0 barber(s) available and 0 waiting seat available.
+Customer: 6 enter the shop.
+Customer 6 left in frustration, we have 0 barber(s) available and 0 waiting seat available.
+Customer: 5 enter the shop.
+Customer 5 left in frustration, we have 0 barber(s) available and 0 waiting seat available.
+Customer: 4 enter the shop.
+Customer 4 left in frustration, we have 0 barber(s) available and 0 waiting seat available.
+Customer: 3 enter the shop.
+Customer 3 left in frustration, we have 0 barber(s) available and 0 waiting seat available.
+Customer: 2 enter the shop.
+Customer 2 left in frustration, we have 0 barber(s) available and 0 waiting seat available.
+Customer 24 paid and left the shop
+customer 19 moves from the waiting area to barbar chair, we have 5 performing haircut and 9 waiting seat available.
+Customer: 1 enter the shop.
+customer 1 enters the waiting room, we have 10 in the waiting area.
+Customer 23 paid and left the shop
+customer 18 moves from the waiting area to barbar chair, we have 5 performing haircut and 9 waiting seat available.
+Customer 22 paid and left the shop
+customer 17 moves from the waiting area to barbar chair, we have 5 performing haircut and 8 waiting seat available.
+Customer: 0 enter the shop.
+*** At this point no more customer can enter the shop ***
+customer 0 enters the waiting room, we have 9 in the waiting area.
+Customer 21 paid and left the shop
+customer 16 moves from the waiting area to barbar chair, we have 5 performing haircut and 8 waiting seat available.
+Customer 20 paid and left the shop
+customer 15 moves from the waiting area to barbar chair, we have 5 performing haircut and 7 waiting seat available.
+Customer 19 paid and left the shop
+customer 14 moves from the waiting area to barbar chair, we have 5 performing haircut and 6 waiting seat available.
+Customer 18 paid and left the shop
+customer 13 moves from the waiting area to barbar chair, we have 5 performing haircut and 5 waiting seat available.
+Customer 17 paid and left the shop
+customer 12 moves from the waiting area to barbar chair, we have 5 performing haircut and 4 waiting seat available.
+Customer 16 paid and left the shop
+customer 11 moves from the waiting area to barbar chair, we have 5 performing haircut and 3 waiting seat available.
+Customer 15 paid and left the shop
+customer 10 moves from the waiting area to barbar chair, we have 5 performing haircut and 2 waiting seat available.
+Customer 14 paid and left the shop
+customer 1 moves from the waiting area to barbar chair, we have 5 performing haircut and 1 waiting seat available.
+Customer 13 paid and left the shop
+customer 0 moves from the waiting area to barbar chair, we have 5 performing haircut and 0 waiting seat available.
+Customer 12 paid and left the shop
+Customer 11 paid and left the shop
+Customer 10 paid and left the shop
+Customer 1 paid and left the shop
+Customer 0 paid and left the shop

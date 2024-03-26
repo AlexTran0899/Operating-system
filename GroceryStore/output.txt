@@ -1,0 +1,301 @@
+*** At this point, no more customer can enter the grocery store ***
+customer 12 enters the waiting area, there are 13 in the waiting area
+customer 24 enters the waiting area, there are 25 in the waiting area
+customer 25 enters the waiting area, there are 26 in the waiting area
+customer 21 enters the waiting area, there are 22 in the waiting area
+customer 14 enters the waiting area, there are 15 in the waiting area
+customer 38 enters the waiting area, there are 38 in the waiting area
+customer 28 enters the waiting area, there are 32 in the waiting area
+customer 46 enters the waiting area, there are 41 in the waiting area
+customer 24 enters the produce section, there are 2 in the produce area
+customer 3 enters the waiting area, there are 4 in the waiting area
+customer 9 enters the waiting area, there are 9 in the waiting area
+customer 15 enters the waiting area, there are 16 in the waiting area
+customer 4 enters the waiting area, there are 5 in the waiting area
+customer 27 enters the waiting area, there are 28 in the waiting area
+customer 38 enters the produce section, there are 6 in the produce area
+customer 26 enters the waiting area, there are 27 in the waiting area
+customer 35 enters the waiting area, there are 36 in the waiting area
+customer 30 enters the waiting area, there are 30 in the waiting area
+customer 13 enters the waiting area, there are 14 in the waiting area
+customer 7 enters the waiting area, there are 7 in the waiting area
+customer 11 enters the waiting area, there are 11 in the waiting area
+customer 0 enters the waiting area, there are 1 in the waiting area
+customer 11 enters the produce section, there are 19 in the produce area
+customer 7 enters the produce section, there are 18 in the produce area
+customer 6 enters the waiting area, there are 12 in the waiting area
+customer 32 enters the waiting area, there are 33 in the waiting area
+customer 13 enters the produce section, there are 17 in the produce area
+customer 2 enters the waiting area, there are 3 in the waiting area
+customer 30 enters the produce section, there are 16 in the produce area
+customer 18 enters the waiting area, there are 19 in the waiting area
+customer 35 enters the produce section, there are 15 in the produce area
+customer 19 enters the waiting area, there are 20 in the waiting area
+customer 31 enters the waiting area, there are 31 in the waiting area
+customer 26 enters the produce section, there are 14 in the produce area
+customer 22 enters the waiting area, there are 23 in the waiting area
+customer 27 enters the produce section, there are 13 in the produce area
+customer 12 enters the produce section, there are 1 in the produce area
+customer 33 enters the waiting area, there are 35 in the waiting area
+customer 4 enters the produce section, there are 12 in the produce area
+customer 8 enters the waiting area, there are 8 in the waiting area
+customer 17 enters the waiting area, there are 18 in the waiting area
+customer 15 enters the produce section, there are 11 in the produce area
+customer 34 enters the waiting area, there are 34 in the waiting area
+customer 49 enters the waiting area, there are 40 in the waiting area
+customer 9 enters the produce section, there are 10 in the produce area
+customer 37 enters the waiting area, there are 37 in the waiting area
+customer 48 enters the waiting area, there are 40 in the waiting area
+customer 46 enters the produce section, there are 7 in the produce area
+customer 3 enters the produce section, there are 9 in the produce area
+customer 36 enters the waiting area, there are 40 in the waiting area
+customer 23 enters the waiting area, there are 24 in the waiting area
+customer 29 enters the waiting area, there are 29 in the waiting area
+customer 28 enters the produce section, there are 8 in the produce area
+customer 47 enters the waiting area, there are 41 in the waiting area
+customer 5 enters the waiting area, there are 6 in the waiting area
+customer 14 enters the produce section, there are 5 in the produce area
+customer 1 enters the waiting area, there are 2 in the waiting area
+customer 10 enters the waiting area, there are 10 in the waiting area
+customer 25 enters the produce section, there are 3 in the produce area
+customer 39 enters the waiting area, there are 39 in the waiting area
+customer 45 enters the waiting area, there are 40 in the waiting area
+customer 44 enters the waiting area, there are 40 in the waiting area
+customer 43 enters the waiting area, there are 40 in the waiting area
+customer 40 enters the waiting area, there are 40 in the waiting area
+customer 16 enters the waiting area, there are 17 in the waiting area
+customer 41 enters the waiting area, there are 40 in the waiting area
+customer 42 enters the waiting area, there are 40 in the waiting area
+customer 20 enters the waiting area, there are 21 in the waiting area
+customer 21 enters the produce section, there are 4 in the produce area
+customer 0 enters the produce section, there are 20 in the produce area
+customer 6 enters the produce section, there are 20 in the produce area
+customer 32 enters the produce section, there are 20 in the produce area
+customer 2 enters the produce section, there are 20 in the produce area
+customer 18 enters the produce section, there are 20 in the produce area
+customer 19 enters the produce section, there are 20 in the produce area
+customer 31 enters the produce section, there are 20 in the produce area
+customer 38 enters the general section, there are 2 in the general area
+customer 22 enters the produce section, there are 20 in the produce area
+customer 33 enters the produce section, there are 20 in the produce area
+customer 26 enters the general section, there are 8 in the general area
+customer 24 enters the general section, there are 1 in the general area
+customer 34 enters the produce section, there are 20 in the produce area
+customer 9 enters the general section, there are 13 in the general area
+customer 37 enters the produce section, there are 20 in the produce area
+customer 46 enters the general section, there are 14 in the general area
+customer 30 enters the general section, there are 6 in the general area
+customer 36 enters the produce section, there are 20 in the produce area
+customer 4 enters the general section, there are 11 in the general area
+customer 11 enters the general section, there are 3 in the general area
+customer 14 enters the general section, there are 17 in the general area
+customer 25 enters the general section, there are 18 in the general area
+customer 47 enters the produce section, there are 20 in the produce area
+customer 17 enters the produce section, there are 20 in the produce area
+customer 12 enters the general section, there are 10 in the general area
+customer 7 enters the general section, there are 4 in the general area
+customer 8 enters the produce section, there are 20 in the produce area
+customer 27 enters the general section, there are 9 in the general area
+customer 0 enters the general section, there are 20 in the general area
+customer 1 enters the produce section, there are 20 in the produce area
+customer 21 enters the general section, there are 19 in the general area
+customer 29 enters the produce section, there are 20 in the produce area
+customer 23 enters the produce section, there are 20 in the produce area
+customer 28 enters the general section, there are 16 in the general area
+customer 3 enters the general section, there are 15 in the general area
+customer 48 enters the produce section, there are 20 in the produce area
+customer 35 enters the general section, there are 7 in the general area
+customer 13 enters the general section, there are 5 in the general area
+customer 49 enters the produce section, there are 20 in the produce area
+customer 15 enters the general section, there are 12 in the general area
+customer 5 enters the produce section, there are 19 in the produce area
+customer 6 enters the general section, there are 21 in the general area
+customer 32 enters the general section, there are 22 in the general area
+customer 39 enters the produce section, there are 20 in the produce area
+customer 10 enters the produce section, there are 20 in the produce area
+customer 2 enters the general section, there are 23 in the general area
+customer 45 enters the produce section, there are 20 in the produce area
+customer 19 enters the general section, there are 25 in the general area
+customer 44 enters the produce section, there are 19 in the produce area
+customer 18 enters the general section, there are 24 in the general area
+customer 43 enters the produce section, there are 20 in the produce area
+customer 31 enters the general section, there are 25 in the general area
+customer 40 enters the produce section, there are 20 in the produce area
+customer 42 enters the produce section, there are 20 in the produce area
+customer 34 enters the general section, there are 25 in the general area
+customer 36 enters the general section, there are 25 in the general area
+customer 41 enters the produce section, there are 20 in the produce area
+customer 16 enters the produce section, there are 19 in the produce area
+customer 33 enters the general section, there are 25 in the general area
+customer 4 enters the frozen section, there are 7 in the frozen area
+customer 46 enters the frozen section, there are 5 in the frozen area
+customer 11 enters the frozen section, there are 8 in the frozen area
+customer 22 enters the general section, there are 25 in the general area
+customer 47 enters the general section, there are 25 in the general area
+customer 30 enters the frozen section, there are 6 in the frozen area
+customer 38 enters the frozen section, there are 1 in the frozen area
+customer 24 enters the frozen section, there are 3 in the frozen area
+customer 37 enters the general section, there are 25 in the general area
+customer 26 enters the frozen section, there are 2 in the frozen area
+customer 12 enters the frozen section, there are 11 in the frozen area
+customer 20 enters the produce section, there are 20 in the produce area
+customer 9 enters the frozen section, there are 4 in the frozen area
+customer 7 enters the frozen section, there are 12 in the frozen area
+customer 29 enters the general section, there are 25 in the general area
+customer 27 enters the frozen section, there are 13 in the frozen area
+customer 1 enters the general section, there are 25 in the general area
+customer 25 enters the frozen section, there are 10 in the frozen area
+customer 8 enters the general section, there are 25 in the general area
+customer 14 enters the frozen section, there are 9 in the frozen area
+customer 17 enters the general section, there are 25 in the general area
+customer 21 enters the frozen section, there are 15 in the frozen area
+customer 28 enters the frozen section, there are 16 in the frozen area
+customer 5 enters the general section, there are 25 in the general area
+customer 48 enters the general section, there are 24 in the general area
+customer 35 enters the frozen section, there are 18 in the frozen area
+customer 49 enters the general section, there are 25 in the general area
+customer 0 enters the frozen section, there are 14 in the frozen area
+customer 23 enters the general section, there are 25 in the general area
+customer 13 enters the frozen section, there are 19 in the frozen area
+customer 3 enters the frozen section, there are 17 in the frozen area
+customer 15 enters the frozen section, there are 20 in the frozen area
+customer 39 enters the general section, there are 21 in the general area
+customer 10 enters the general section, there are 22 in the general area
+customer 45 enters the general section, there are 23 in the general area
+customer 44 enters the general section, there are 24 in the general area
+customer 43 enters the general section, there are 25 in the general area
+customer 6 enters the frozen section, there are 21 in the frozen area
+customer 32 enters the frozen section, there are 22 in the frozen area
+customer 2 enters the frozen section, there are 23 in the frozen area
+customer 19 enters the frozen section, there are 24 in the frozen area
+customer 18 enters the frozen section, there are 25 in the frozen area
+customer 40 enters the general section, there are 21 in the general area
+customer 42 enters the general section, there are 22 in the general area
+customer 41 enters the general section, there are 23 in the general area
+customer 16 enters the general section, there are 24 in the general area
+customer 20 enters the general section, there are 25 in the general area
+customer 31 enters the frozen section, there are 26 in the frozen area
+customer 34 enters the frozen section, there are 27 in the frozen area
+customer 36 enters the frozen section, there are 28 in the frozen area
+customer 33 enters the frozen section, there are 29 in the frozen area
+customer 22 enters the frozen section, there are 30 in the frozen area
+customer 47 enters the frozen section, there are 30 in the frozen area
+customer 29 enters the frozen section, there are 30 in the frozen area
+customer 8 enters the frozen section, there are 30 in the frozen area
+customer 37 enters the frozen section, there are 30 in the frozen area
+customer 17 enters the frozen section, there are 30 in the frozen area
+customer 12 enters the cashier section, there are 8 people at the cash register
+customer 9 enters the cashier section, there are 9 people at the cash register
+customer 7 enters the cashier section, there are 10 people at the cash register
+customer 1 enters the frozen section, there are 30 in the frozen area
+customer 4 enters the cashier section, there are 1 people at the cash register
+customer 30 enters the cashier section, there are 3 people at the cash register
+customer 24 enters the cashier section, there are 6 people at the cash register
+customer 11 enters the cashier section, there are 4 people at the cash register
+customer 38 enters the cashier section, there are 5 people at the cash register
+customer 23 enters the frozen section, there are 30 in the frozen area
+customer 49 enters the frozen section, there are 30 in the frozen area
+customer 48 enters the frozen section, there are 30 in the frozen area
+customer 5 enters the frozen section, there are 29 in the frozen area
+customer 26 enters the cashier section, there are 7 people at the cash register
+customer 46 enters the cashier section, there are 2 people at the cash register
+customer 27 enters the cashier section, there are 10 people at the cash register
+customer 25 enters the cashier section, there are 10 people at the cash register
+customer 39 enters the frozen section, there are 30 in the frozen area
+customer 10 enters the frozen section, there are 30 in the frozen area
+customer 14 enters the cashier section, there are 10 people at the cash register
+customer 45 enters the frozen section, there are 30 in the frozen area
+customer 21 enters the cashier section, there are 10 people at the cash register
+customer 44 enters the frozen section, there are 30 in the frozen area
+customer 43 enters the frozen section, there are 30 in the frozen area
+customer 28 enters the cashier section, there are 10 people at the cash register
+customer 35 enters the cashier section, there are 10 people at the cash register
+customer 40 enters the frozen section, there are 30 in the frozen area
+customer 0 enters the cashier section, there are 10 people at the cash register
+customer 42 enters the frozen section, there are 30 in the frozen area
+customer 13 enters the cashier section, there are 10 people at the cash register
+customer 41 enters the frozen section, there are 30 in the frozen area
+customer 3 enters the cashier section, there are 10 people at the cash register
+customer 16 enters the frozen section, there are 30 in the frozen area
+customer 15 enters the cashier section, there are 10 people at the cash register
+customer 20 enters the frozen section, there are 30 in the frozen area
+customer 11 left the store
+customer 38 left the store
+customer 7 left the store
+customer 9 left the store
+customer 26 left the store
+customer 46 left the store
+customer 12 left the store
+customer 30 left the store
+customer 24 left the store
+customer 4 left the store
+customer 25 left the store
+customer 32 enters the cashier section, there are 10 people at the cash register
+customer 6 enters the cashier section, there are 9 people at the cash register
+customer 27 left the store
+customer 19 enters the cashier section, there are 10 people at the cash register
+customer 21 left the store
+customer 34 enters the cashier section, there are 9 people at the cash register
+customer 2 enters the cashier section, there are 10 people at the cash register
+customer 14 left the store
+customer 33 enters the cashier section, there are 10 people at the cash register
+customer 3 left the store
+customer 22 enters the cashier section, there are 10 people at the cash register
+customer 36 enters the cashier section, there are 10 people at the cash register
+customer 13 left the store
+customer 31 enters the cashier section, there are 9 people at the cash register
+customer 18 enters the cashier section, there are 10 people at the cash register
+customer 28 left the store
+customer 0 left the store
+customer 35 left the store
+customer 15 left the store
+customer 32 left the store
+customer 6 left the store
+customer 33 left the store
+customer 2 left the store
+customer 34 left the store
+customer 19 left the store
+customer 22 left the store
+customer 36 left the store
+customer 31 left the store
+customer 18 left the store
+customer 47 enters the cashier section, there are 1 people at the cash register
+customer 29 enters the cashier section, there are 2 people at the cash register
+customer 8 enters the cashier section, there are 3 people at the cash register
+customer 37 enters the cashier section, there are 4 people at the cash register
+customer 17 enters the cashier section, there are 5 people at the cash register
+customer 1 enters the cashier section, there are 6 people at the cash register
+customer 23 enters the cashier section, there are 7 people at the cash register
+customer 49 enters the cashier section, there are 8 people at the cash register
+customer 48 enters the cashier section, there are 9 people at the cash register
+customer 5 enters the cashier section, there are 10 people at the cash register
+customer 47 left the store
+customer 37 left the store
+customer 8 left the store
+customer 29 left the store
+customer 17 left the store
+customer 39 enters the cashier section, there are 6 people at the cash register
+customer 10 enters the cashier section, there are 7 people at the cash register
+customer 1 left the store
+customer 45 enters the cashier section, there are 7 people at the cash register
+customer 44 enters the cashier section, there are 8 people at the cash register
+customer 43 enters the cashier section, there are 9 people at the cash register
+customer 40 enters the cashier section, there are 10 people at the cash register
+customer 23 left the store
+customer 42 enters the cashier section, there are 10 people at the cash register
+customer 49 left the store
+customer 48 left the store
+customer 41 enters the cashier section, there are 9 people at the cash register
+customer 5 left the store
+customer 16 enters the cashier section, there are 9 people at the cash register
+customer 20 enters the cashier section, there are 10 people at the cash register
+customer 10 left the store
+customer 39 left the store
+customer 45 left the store
+customer 44 left the store
+customer 43 left the store
+customer 40 left the store
+customer 42 left the store
+customer 41 left the store
+customer 16 left the store
+customer 20 left the store
